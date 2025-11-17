@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hey, there</h1>
+<p align="center">
+      I'm Adinarayan — a full-stack web developer and Android developer who loves creating apps in my free time.
+</p>
 
-<!--
-**AdinarayanSahu/AdinarayanSahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Technical Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,angular,ts,js,html,css,firebase,mysql,git" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdinarayanSahu&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdinarayanSahu&show_icons=true&theme=transparent" width="48%" />
+</p>
+
+---
+
+<p align="center">Thank you for visiting my profile.</p>
